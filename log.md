@@ -15,3 +15,10 @@
 **Thoughts:** Writing it out vs. reading about what the code does, is an enormous difference in retention. Even if some of it is forgotton, once referenced back to the work that is completed - it is instantaniously grasped. 
 **Link to work:** Signed up to Code Pen http://codepen.io/davedo321/
 
+### Day 2: Jan 1 2017
+
+
+**Today's Progress**: Starting on a Tribute Page
+**Thoughts:** As per https://www.freecodecamp.com/challenges/build-a-tribute-page I'm attempting to build a tribute page. It was going to be on Code Pen - but I realized that if I'm going to do this, I am going to do it right. I then added Bootstrap to the Blog Ghost platform for the davedo321 blog. Note: A guided tutorial is MUCH faster then a self run project.  
+**Link to work:** TBD
+

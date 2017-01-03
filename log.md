@@ -17,8 +17,13 @@
 
 ### Day 2: Jan 1 2017
 
-
 **Today's Progress**: Starting on a Tribute Page
 **Thoughts:** As per https://www.freecodecamp.com/challenges/build-a-tribute-page I'm attempting to build a tribute page. It was going to be on Code Pen - but I realized that if I'm going to do this, I am going to do it right. I then added Bootstrap to the Blog Ghost platform for the davedo321 blog. Note: A guided tutorial is MUCH faster then a self run project.  
 **Link to work:** TBD
+
+### Day 3: Jan 2 2017
+
+**Today's Progress**: Completed Tribute Page and Working on Basic JavaScript 
+**Thoughts:** I'm an content with the Tribute page, but would like to add more content in the future. Also, worked on the JavaScript of FreeCodeCamp. (Level 160)
+**Link to work:** http://www.allegrosgroup.com/davedo321/roald-amundsen-vs-robert-falcon-scott-in-quotes/
 

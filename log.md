@@ -27,3 +27,12 @@
 **Thoughts:** I'm an content with the Tribute page, but would like to add more content in the future. Also, worked on the JavaScript of FreeCodeCamp. (Level 160)
 **Link to work:** http://www.allegrosgroup.com/davedo321/roald-amundsen-vs-robert-falcon-scott-in-quotes/
 
+### Day 4: Jan 3 2017
+
+**Today's Progress**: Working through JavaScript and some Ruby
+**Thoughts:** I have ceom to the realization that all the basic logic is the same, it's just different languages. Similar to a sentance structure. (Javascript: Level 172, Ruby: 3/8 done week 2)
+
+### Day 5: Jan 4 2017
+
+**Today's Progress**: 
+**Thoughts:**

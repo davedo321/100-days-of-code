@@ -34,5 +34,5 @@
 
 ### Day 5: Jan 4 2017
 
-**Today's Progress**: 
+**Today's Progress**: Almost done Ruby Week 2 on Coursera and completed if Statements for Javascript
 **Thoughts:**
